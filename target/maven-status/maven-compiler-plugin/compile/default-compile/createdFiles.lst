@@ -1,0 +1,5 @@
+com\ejemplo\demo\main\service\ProductoService.class
+com\ejemplo\demo\main\repositorio\ProductoRepository.class
+com\ejemplo\demo\main\controller\ProductoController.class
+com\ejemplo\demo\main\model\Producto.class
+com\ejemplo\demo\main\TiendaTechnovaApplication.class
