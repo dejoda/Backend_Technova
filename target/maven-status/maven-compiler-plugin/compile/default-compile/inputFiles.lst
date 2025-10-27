@@ -1,5 +1,17 @@
-C:\Users\JOJHAN\Documents\Visual Code  Project\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\controller\ProductoController.java
-C:\Users\JOJHAN\Documents\Visual Code  Project\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\model\Producto.java
-C:\Users\JOJHAN\Documents\Visual Code  Project\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\repositorio\ProductoRepository.java
-C:\Users\JOJHAN\Documents\Visual Code  Project\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\service\ProductoService.java
-C:\Users\JOJHAN\Documents\Visual Code  Project\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\TiendaTechnovaApplication.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\controller\AuthController.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\controller\AuthResponse.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\controller\AuthService.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\controller\LoginRequest.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\controller\ProductoController.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\controller\RegisterRequest.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\JwT\JwtAuthenticationFilter.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\JwT\JwtService.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\model\Producto.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\repositorio\ProductoRepository.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\service\ProductoService.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\TiendaTechnovaApplication.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\User\Role.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\User\User.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\com\ejemplo\demo\main\User\UserRepository.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\config\ApplicationConfig.java
+C:\Users\FERNANDO\OneDrive\Documentos\TRABAJOS\trabajos UTP\Ciclo7\Marcos y Desarrollo Web\Technova\TiendaTechnova\src\main\java\config\SecurityConfig.java
