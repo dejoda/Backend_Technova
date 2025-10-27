@@ -82,4 +82,9 @@ public class Producto {
 	public void setGarantia(int garantia) {
 		this.garantia = garantia;
 	}
+	
+	
+	
+    
+    
 }
